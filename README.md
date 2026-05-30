@@ -16,3 +16,6 @@ Where to Find Key Values
 • HA IP: Home Assistant → Settings → System → Network
 • HA Token: Home Assistant → Profile → Security → Long-Lived Access Tokens
 • Entity IDs: Home Assistant → Settings → Devices & Services → Entities
+
+
+When copying Code, "user" must be replaced with actual user name
